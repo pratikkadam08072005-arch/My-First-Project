@@ -1,0 +1,5 @@
+{
+  "name": "Student prediction",
+  "description": "An advanced AI-powered student performance dashboard that analyzes academic data, attendance, and study habits to predict outcomes and generate personalized success roadmaps.",
+  "requestFramePermissions": []
+}
